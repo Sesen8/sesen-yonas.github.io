@@ -14,16 +14,16 @@
   "GitHub": "https://github.com/Sesen8"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": "I like to code and connect with other CS and stem majors",
   "School": "Seattle Pacific University",
   "Major": "Computer Science and Minor in Data Analytics",
   "Graduation": "June 2025",
-  "EducationText": "Use this to add some narrative to your education section",
+  "EducationText": "I have completed my Calculus requirements, physics requirements and almost done with my CS classes as well",
   "Employment": "Seattle Pacific University",
   "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
+  "EmploymentText": "I currecntly have a part time job at Target but I will be interning with HP during the summer",
   "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
+  "SkillsText": "I like to code in Javascript and C++",
   "Resume": "CSresume.pdf"  
 },
 "Project1": {
@@ -32,26 +32,5 @@
     "GitHubRepo": "https://github.com/Sesen8/Game-Sesen8",
     "MainImage": "GAME.png",
     "DetailImages": ["GAME.png","GAME.png","GAME.png"]
-  },
-  "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
-  },
-  "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
-    "GitHubRepo": "",
-    "MainImage": "P3Main.png",
-    "DetailImages": []
-  },
-  "Project4": {
-    "Title": "",
-    "Desc": "",
-    "GitHubRepo": "",
-    "MainImage": "",
-    "DetailImages": []
   }
 }
