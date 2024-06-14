@@ -27,7 +27,7 @@
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
-    "Title": "Contries Trivia",
+    "Title": "Contries Trivia ",
     "Desc": "This is a trivia game where users can get quizzed on differnt countries, their capitals and languages.",
     "GitHubRepo": "https://github.com/Sesen8/Game-Sesen8",
     "MainImage": "P1Main.png",
